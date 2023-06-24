@@ -8,7 +8,7 @@ static int fuzzy     = 1;    /* -F  option; if 0, dmenu doesn't use fuzzy matchi
 
 /* -fn option overrides fonts[0]; default X11 font or font set */
 static const char *fonts[] = {
-    "CaskaydiaCove Nerd Font:style=Regular:size=9:antialias=true"
+    "CaskaydiaCove Nerd Font:style=Regular:size=5:antialias=true"
 };
 
 static const char *prompt = ">";
